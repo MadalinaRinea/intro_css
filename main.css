@@ -1,0 +1,28 @@
+p {
+    color: green;
+}
+
+h1 {
+    color: red;
+    font-weight: bold;
+}
+
+.headingTitle {
+    color: green;
+}
+
+#mainTitle {
+    color: hotpink;
+    width: 200px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 20px;
+}
+
+.contentDiv {
+    color: blue;
+}
+
+span {
+    color: gray;
+}
